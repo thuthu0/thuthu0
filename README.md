@@ -1,5 +1,5 @@
 # sobre mim
 - 👋 Oi, meu nome é @thuthu0
-- :+1:Meu email de contato é eckelberg.arthur@gmail.com
-- 👀 Eu estou interessado em aprender a programar novas linguagens.
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
+- :+1:Meu contato é [email](eckelberg.arthur@gmail.com)
+- 👀 Estou interessado em aprender a programar novas linguagens.
+- 🌱 Recentemente aprendi a programar a linguagem JavaScript e Scratch.
